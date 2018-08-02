@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$a=b$$
 # My First Kaggle Competition
 
 I just finished my first Kaggle competition. My goal was to place in the top 10%. In the end, I placed at 83rd place (top 5%) and won a silver medal. I am writing this notebook to summarize my first experience 
